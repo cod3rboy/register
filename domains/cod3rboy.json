@@ -1,0 +1,11 @@
+{
+  "description": "cod3rboy portfolio",
+  "repo": "https://github.com/cod3rboy/cod3rboy.github.io",
+  "owner": {
+    "username": "cod3rboy",
+    "email": "dkchalotra@gmail.com"
+  },
+  "record": {
+    "CNAME": "cod3rboy.github.io"
+  }
+}
